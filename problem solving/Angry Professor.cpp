@@ -16,7 +16,7 @@ void method()
             count++;
     }
     if(count<k)
-        cout<<"YES"<<endl;
+        cout<<"YES"<<endl<<endl;
     else
         cout<<"NO"<<endl;    
 }
